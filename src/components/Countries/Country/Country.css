@@ -1,0 +1,17 @@
+.row{
+    margin: 0;
+    padding:0;
+}
+
+.custom-card{
+    padding: 5px;
+}
+
+.custom-card-img{
+    border-radius: 5px;
+}
+
+.country-container{
+    margin-top: 10px;
+    border-radius: 10px;
+}
